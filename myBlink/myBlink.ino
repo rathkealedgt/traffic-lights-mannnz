@@ -36,7 +36,6 @@ void setup() {
 
   // initialise digital pin AMBER and RED as outputs.
 
-  
 }
 
 // the loop function runs over and over again forever
