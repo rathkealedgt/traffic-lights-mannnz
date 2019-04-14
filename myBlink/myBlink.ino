@@ -26,9 +26,9 @@
 
 // the setup function runs once when you press reset or power the board
 
-int GREEN = 7;
-int AMBER = 8;
-int RED = 13;
+int GREEN = 2;
+int AMBER = 3;
+int RED = 4;
 
 void setup() {
   // initialize digital pin GREEN as an output.
