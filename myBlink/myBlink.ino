@@ -33,6 +33,8 @@ int RED = 4;
 void setup() {
   // initialize digital pin GREEN as an output.
   pinMode(GREEN, OUTPUT);
+  pinMode(AMBER, OUTPUT);
+
 
   // initialise digital pin AMBER and RED as outputs.
 
